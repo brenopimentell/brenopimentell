@@ -9,11 +9,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Ciênci
 Estou em transição para a área de Dados, com foco no desenvolvimento de habilidades em Python, SQL, ETL, 
 Power BI e Databricks, aplicando esses conhecimentos em estudos, projetos pessoais e práticas guiadas.
 
-Tecnologias & Ferramentas
-- Linguagens: Python, SQL  
-- Dados: PySpark, Pandas  
-- Plataforma: Databricks  
-- Versionamento: Git & GitHub
+Tecnologias e Ferramentas
+Python, SQL, PySpark, Databricks, AWS, PowerBI, Git, GitHub, HTML, CSS, JS
 
 Objetivo Profissional
 Atuar como estagiário ou júnior em Engenharia de Dados, aplicando boas
