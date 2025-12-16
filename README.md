@@ -5,7 +5,7 @@
   Python • SQL • PySpark • AWS • Databricks • PowerBI 
 </p>
 
-Sobre mim:
+<p align="center">
 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Ciência da Computação na UNIP. 
 Estou em transição para a área de Dados, com foco no desenvolvimento de habilidades em Python, SQL, ETL, 
 Power BI e Databricks, aplicando esses conhecimentos em estudos, projetos pessoais e práticas guiadas.
@@ -23,3 +23,4 @@ práticas de ETL, organização de dados e análise para apoiar decisões de neg
 Contato
 - LinkedIn: https://www.linkedin.com/in/brenopimentell  
 - Email: brenofelipe.pimentel@gmail.com
+</p>
