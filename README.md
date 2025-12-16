@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Breno</h1>
+<h1 align="center">👋 Olá, eu sou o Breno Felipe</h1>
 
 <p align="center">
   <b>Estudante de Ciência da Computação | Foco em Engenharia de Dados </b><br>
